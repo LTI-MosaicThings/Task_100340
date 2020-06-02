@@ -54,7 +54,7 @@
         "func": "msg.payload = Math.round(Math.random()*100);\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
-        "x": 270,
+        "x": 290,
         "y": 80,
         "wires": [
             [
